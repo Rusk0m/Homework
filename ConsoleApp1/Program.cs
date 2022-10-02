@@ -28,8 +28,6 @@ namespace ConsoleApp1
             Console.WriteLine($"Левая цифра {leftFigure}");
             //Получится результат:
             //Левая цифра 4
-
-            Console.WriteLine("Hello world");
         }
 
     }
