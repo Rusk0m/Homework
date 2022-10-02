@@ -29,7 +29,7 @@ namespace ConsoleApp1
             //Получится результат:
             //Левая цифра 4
 
-
+            Console.WriteLine("Hello world");
         }
 
     }
